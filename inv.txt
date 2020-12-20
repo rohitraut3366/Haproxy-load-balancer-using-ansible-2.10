@@ -1,0 +1,7 @@
+[LB]
+192.168.43.60 ansible_ssh_user=root ansible_ssh_pass=3366
+
+[webservers]
+192.168.43.167 ansible_ssh_user=root ansible_ssh_pass=3366
+192.168.43.12 ansible_ssh_user=root ansible_ssh_pass=3366
+192.168.43.207 ansible_ssh_user=root ansible_ssh_pass=3366
